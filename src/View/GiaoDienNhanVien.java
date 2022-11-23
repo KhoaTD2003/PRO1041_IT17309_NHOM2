@@ -24,10 +24,10 @@ public class GiaoDienNhanVien extends javax.swing.JFrame {
     /**
      * Creates new form GiaDien
      */
-    public GiaoDienNhanVien() {
+    public GiaoDienNhanVien(){
         initComponents();
         setTitle("PHẦN MỀM QUẢN LÍ BÁN GIÀY SNEAKER");
-
+//da sua
         ChuyenManHinhController controller = new ChuyenManHinhController(jpnView);
 //        controller.setName(jpnGiaoDich, jlbGiaodich);
 
