@@ -14,6 +14,7 @@ public class SanPhamGiaoDien {
     private String ten;
     private int soLuong;
     private int Dongia ;
+    //privie
     public SanPhamGiaoDien() {
     }
 
